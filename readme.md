@@ -2,7 +2,7 @@
 
 By Prince Kr Paswan
 
-## [Link to the Web-Design (project-9)](https://Web-Design.netlify.app/)
+## [Link to the Web-Design (project-8)](https://web-page1.netlify.app/)
 
 
 ![Completed Website](Web-Design.png)
@@ -14,4 +14,4 @@ By Prince Kr Paswan
 - I learned how to add custom fonts.
 - I learned about image positioning and image hight.
 
-## This project took around 2 hours to complete.
+## This project took around 3 hours to complete.
