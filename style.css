@@ -176,7 +176,6 @@ nav{
 
         *{
             overflow-x: hidden !important;
-            max-width: 350px !important;
             height: fit-content;
         }
 
