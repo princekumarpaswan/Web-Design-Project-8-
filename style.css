@@ -84,7 +84,6 @@ nav{
 
         *{
             overflow-x: hidden;
-            max-width: 400px;
             height: fit-content;
         }
 
@@ -102,7 +101,7 @@ nav{
             margin-top: 20px;
         }
         .nav-item{
-           margin-left: 15px;
+           margin-left: 55px;
            font-size: 15px;
            font-weight: 900;
            color: #3E4794;
@@ -111,7 +110,7 @@ nav{
 
         nav img{
             margin-top: 50px !important;
-            margin-left: -200px;
+            margin-left: -280px;
             width: 80px;
         }
         .signin-btn{
@@ -124,7 +123,7 @@ nav{
             border: none;
             display: block;
             margin-top: 10px;
-            margin-left: 140px;
+            margin-left: 270px;
             margin-bottom: 10px;
         }
 
@@ -153,7 +152,7 @@ nav{
             font-weight: 100;
             margin-bottom: 30px;
             margin-top: -80px;
-            margin-left: 20px;
+            margin-left: 140px;
         }
         .left-section button{
             width: 150px;
@@ -180,7 +179,6 @@ nav{
         }
 
         nav{
-            width: 300px !important;
             display: block;
             justify-content: baseline;
             align-items: center;
@@ -194,8 +192,8 @@ nav{
             margin-top: 10px;
         }
         .nav-item{
-           margin-left: 8px !important;
-           font-size: 5px !important;
+           margin-left: 20px !important;
+           font-size: 15px !important;
            font-weight: 900;
            color: #3E4794;
        
@@ -203,9 +201,9 @@ nav{
 
         nav img{
             margin: 0px !important;
-            margin-left: -80px !important;
-            width: 40px !important;
-            margin-top: 20px !important;
+            margin-left: -210px !important;
+            width: 60px !important;
+            margin-top: 40px !important;
         }
         .signin-btn{
             width: 50px;
@@ -217,12 +215,11 @@ nav{
             border: none;
             display: block;
             margin-top: 5px;
-            margin-left: 40px !important;
+            margin-left: 155px !important;
             margin-bottom: 10px;
         }
 
         .intro-section{
-            width: 300px !important;
             display: block;
             height: fit-content;
             text-align: center;
@@ -233,29 +230,28 @@ nav{
             text-align: center;
         }
         .left-section h1{
-            width: 100px !important;
             font-size: 20px !important;
             margin-bottom: 100px;
             color: #3E4794;
-            margin-left: 5px !important;
+            margin-left: 0px !important;
             margin-top: 10px;
         }
         .left-section h4{
-            width: 110px !important;
-            font-size: 10px;
-            line-height: 10px;
+            width: 210px !important;
+            font-size: 20px;
+            line-height: 25px;
             color: #3E4794;
             font-weight: 100;
             margin-bottom: 20px !important;
             margin-top: -80px;
-            margin-left: 2px !important;
+            margin-left: 60px !important;
         }
         .left-section button{
             font-weight: 900;
-            width: 50px !important;
-            font-size: 5px !important;
-            height: 15px !important;
-            margin-left: -180px !important;
+            width: 130px !important;
+            font-size: 15px !important;
+            height: 25px !important;
+            margin-left: -10px !important;
             margin-top: -50px !important;
             margin-bottom: 0px !important;
             padding: 0px;
@@ -269,8 +265,8 @@ nav{
         }
 
         .imgx{
-            width: 120px;
-            margin-left: -130px !important;
+            width: 290px;
+            margin-left: 0px !important;
             
         }
 
